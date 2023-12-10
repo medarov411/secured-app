@@ -12,7 +12,7 @@
 ![image](https://github.com/medarov411/vuln-app/assets/60567375/302c807a-5503-411e-a291-bbe552f247ec)
 
 ### Комментарии к исправлениям
->SSTI,XSS FIX:
+SSTI,XSS FIX:
 
 >file: __init__.py Line:14
 
@@ -21,7 +21,7 @@
 
 <p>&nbsp;</p>
 
->Path Traversal:
+Path Traversal:
 
 >file: __init__.py Line:419
 
@@ -31,7 +31,7 @@
 
 <p>&nbsp;</p>
 
->OS Command Injection:
+OS Command Injection:
 
 >file: __init__.py Line:401
 
@@ -41,7 +41,7 @@
 
 <p>&nbsp;</p>
 
->SQLI:
+SQLI:
 
 >file: __init__.py Line:449
 
@@ -50,7 +50,7 @@
 
 <p>&nbsp;</p>
 
->IDOR:
+IDOR:
 
 >file: __init__.py Line:465
 
@@ -61,7 +61,7 @@
 
 <p>&nbsp;</p>
 
->Brute Force:
+Brute Force:
 
 >file: __init__.py Line:17
 
