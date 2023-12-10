@@ -1,4 +1,4 @@
-# secured-app
+![image](https://github.com/medarov411/secured-app/assets/60567375/a80f87e5-bd0c-4827-8ef6-a310159d9cad)# secured-app
 # Защищенная версия приложения
 
 ### Инструкция по сборке и запуску приложения
@@ -59,4 +59,11 @@
 >![image](https://github.com/medarov411/secured-app/assets/60567375/8098064f-a75b-4eaf-ba36-fa8c18716876)
 >![image](https://github.com/medarov411/secured-app/assets/60567375/12a85e12-06b9-4dd6-aafd-dd87d79e6a84)
 
+<p>&nbsp;</p>
+>Brute Force:
+
+>file: __init__.py Line:17
+
+>Была добавлена кастомная функция check_rate_limit. С ограничением 1 запрос в минуту, для авторизации
+![image](https://github.com/medarov411/secured-app/assets/60567375/3217feb9-06eb-48c9-b012-96281548a777)
 
