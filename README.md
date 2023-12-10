@@ -60,10 +60,13 @@
 >![image](https://github.com/medarov411/secured-app/assets/60567375/12a85e12-06b9-4dd6-aafd-dd87d79e6a84)
 
 <p>&nbsp;</p>
+
 >Brute Force:
 
 >file: __init__.py Line:17
 
->Была добавлена кастомная функция check_rate_limit. С ограничением 1 запрос в минуту, для авторизации
-![image](https://github.com/medarov411/secured-app/assets/60567375/3217feb9-06eb-48c9-b012-96281548a777)
+>Была добавлена кастомная функция check_rate_limit. С ограничением 1 запрос в минуту, для авторизации.При превышении возвращает 429(too many attempts)
+
+
+>![image](https://github.com/medarov411/secured-app/assets/60567375/3217feb9-06eb-48c9-b012-96281548a777)
 
