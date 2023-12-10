@@ -1,4 +1,4 @@
-![image](https://github.com/medarov411/secured-app/assets/60567375/a80f87e5-bd0c-4827-8ef6-a310159d9cad)# secured-app
+# secured-app
 # Защищенная версия приложения
 
 ### Инструкция по сборке и запуску приложения
